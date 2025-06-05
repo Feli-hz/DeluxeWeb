@@ -2,8 +2,9 @@
     "menu": {
         "item2": "Sobre mí",
         "item3": "Habilidades",
-        "item5": "Proyectos",
-        "item6": "Contacto"
+        "item4": "Proyectos",
+        "item5": "Contacto",
+        "item6": ""
     },
 
     "home": {
