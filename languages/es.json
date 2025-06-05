@@ -8,14 +8,14 @@
 
     "home": {
         "home_text-1": "Hola! Soy",
-        "home_text-3": "Desarrolladora web Front",
-        "parrafo-info": "Frontend Web Developer focused on creating intuitive and visually appealing designs. As someone passionate about clean user interfaces, I strive to build projects that deliver the best possible user experience.",
+        "home_text-3": "Desarrolladora Web Developer",
+        "parrafo-info": "Programador enfocado al Desarrollo Web Frontend. Como persona amante a los diseños intuitivos y estéticamente agradables busco crear proyectos que brinden la mejor experiencia para el usuario.",
         "contact_button": "Contacto"
     },
 
     "sobre-mi": {
-        "title": "Sobre mí",
-        "texto_sobreMi": "Programador enfocado al Desarrollo Web Frontend. Como persona amante a los diseños intuitivos y estéticamente agradables busco crear proyectos que brinden la mejor experiencia para el usuario."
+        "title": "Sobre Nosotros",
+        "texto_sobreMi": "Somos un pequeño equipo especializado en la creación de tiendas para servidores de Minecraft, FiveM y Discord mediante Tebex. Con experiencia en diseño funcional y personalizado, ayudamos a que tu servidor genere ingresos de manera profesional. Creamos experiencias visuales atractivas, con navegación simple y configuraciones completas, listas para usar."
     },
 
     "habilidades": {
