@@ -84,3 +84,35 @@ document.querySelector('.go-top-container').addEventListener('click', () => {
         behavior: 'smooth'
     });
 });
+
+const formulario = document.getElementById('form');
+const mensajeExito = document.getElementById('mensaje-enviado');
+
+formulario.addEventListener('submit', async function(e) {
+    e.preventDefault(); // Detenemos el comportamiento por defecto
+
+    const formData = new FormData(this);
+
+    try {
+        const response = await fetch(formulario.action, {
+            method: 'POST',
+            body: formData,
+            headers: {
+                'Accept': 'application/json'
+            }
+        });
+
+        if (response.ok) {
+            mensajeExito.style.display = 'block';
+            formulario.reset();
+            setTimeout(() => {
+                mensajeExito.style.display = 'none';
+            }, 5000);
+        } else {
+            alert('Ocurrió un error al enviar el mensaje.');
+        }
+
+    } catch (error) {
+        alert('Error de red al enviar el formulario.');
+    }
+});
