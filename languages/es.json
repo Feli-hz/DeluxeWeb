@@ -3,7 +3,7 @@
         "item2": "Sobre mí",
         "item3": "Habilidades",
         "item4": "Formación",
-        "item5": "Proyectos",
+        "item5": "Trabajos Destacados",
         "item6": "Contacto"
     },
 
@@ -24,7 +24,7 @@
         "title": "Habilidades"
     },
 
-    "proyectos": {
+    "Trabajos Destacados": {
         "title": "Trabajos Destacados",
         "title-proyecto1": "AtlanticMC Network",
         "info-proyecto1": "AtlanticMC es un servidor de Minecraft Pixelmon con una comunidad activa y amigable. Cuenta con más de 50 jugadores diarios, eventos constantes y un mundo diseñado para entrenar, explorar y divertirse.",
