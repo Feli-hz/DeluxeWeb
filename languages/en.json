@@ -9,12 +9,13 @@
     "home": {
         "home_text-1": "Hi! I'm",
         "home_text-3": "Frontend Web Developer",
+        "parrafo-info": "Frontend Web Developer focused on creating intuitive and visually appealing designs. As someone passionate about clean user interfaces, I strive to build projects that deliver the best possible user experience.",
         "contact_button": "Contact"
     },
 
     "sobre-mi": {
         "title": "About Me",
-        "parrafo-info": "Frontend Web Developer focused on creating intuitive and visually appealing designs. As someone passionate about clean user interfaces, I strive to build projects that deliver the best possible user experience.",
+        "texto_sobreMi": "We are a small team specialized in creating stores for Minecraft, FiveM, and Discord servers using Tebex. With experience in functional and custom design, we help your server generate revenue in a professional way. We build visually appealing experiences with simple navigation and fully configured, ready-to-use setups."
     },
 
     "habilidades": {
