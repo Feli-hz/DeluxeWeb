@@ -14,7 +14,7 @@
 
     "sobre-mi": {
         "title": "About Me",
-        "texto_sobreMi": "Developer focused on Frontend Web Development. As someone who loves intuitive and aesthetically pleasing designs, I aim to create projects that provide the best user experience."
+        "parrafo-info": "Frontend Web Developer focused on creating intuitive and visually appealing designs. As someone passionate about clean user interfaces, I strive to build projects that deliver the best possible user experience.",
     },
 
     "habilidades": {
