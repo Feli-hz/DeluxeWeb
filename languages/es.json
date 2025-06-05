@@ -7,15 +7,15 @@
     },
 
     "home": {
-        "home_text-1": "Hola! Soy",
-        "home_text-3": "Desarrollador Web Developer",
-        "parrafo-info": "Programador enfocado al Desarrollo Web Frontend. Como persona amante a los diseños intuitivos y estéticamente agradables busco crear proyectos que brinden la mejor experiencia para el usuario.",
+        "home_text-1": "¡Hola! Soy",
+        "home_text-3": "Desarrollador Web Frontend",
+        "parrafo-info": "Desarrollador Web Frontend enfocado en crear diseños intuitivos y visualmente atractivos. Como apasionado de las interfaces limpias, me esfuerzo por construir proyectos que ofrezcan la mejor experiencia de usuario posible.",
         "contact_button": "Contacto"
     },
 
     "sobre-mi": {
-        "title": "Sobre Nosotros",
-        "texto_sobreMi": "Somos un pequeño equipo especializado en la creación de tiendas para servidores de Minecraft, FiveM y Discord mediante Tebex. Con experiencia en diseño funcional y personalizado, ayudamos a que tu servidor genere ingresos de manera profesional. Creamos experiencias visuales atractivas, con navegación simple y configuraciones completas, listas para usar."
+        "title": "Sobre nosotros",
+        "texto_sobreMi": "Somos un pequeño equipo especializado en crear tiendas para servidores de Minecraft, FiveM y Discord usando Tebex. Con experiencia en diseño funcional y personalizado, ayudamos a que tu servidor genere ingresos de manera profesional. Creamos experiencias visualmente atractivas con una navegación simple y configuraciones completamente listas para usar."
     },
 
     "habilidades": {
@@ -24,17 +24,17 @@
 
     "proyectos": {
         "title": "Proyectos",
-        "title-proyecto1": "AtlanticMC Network",
-        "info-proyecto1": "AtlanticMC es un servidor de Minecraft Pixelmon con una comunidad activa y amigable. Cuenta con más de 50 jugadores conectados a diario, eventos constantes, y un mundo pensado para entrenar, explorar y divertirse.",
-        "title-proyecto2": "NexusCraft Network",
-        "info-proyecto2": "NexusCraft es un servidor de Minecraft survival con foco en la comunidad, la economía y la construcción. Con más de 100 jugadores activos todos los días.",
-        "title-proyecto3": "FrogCraft Network",
-        "info-proyecto3": "FrogCraft es un servidor survival de Minecraft enfocado en la jugabilidad clásica, la comunidad y el progreso a tu ritmo. Con un promedio de 50 jugadores activos, ofrece un entorno estable, amigable y lleno de oportunidades para construir, explorar y disfrutar del survival como debe ser."
+        "title-proyecto1": "Red AtlanticMC",
+        "info-proyecto1": "AtlanticMC es un servidor de Minecraft Pixelmon con una comunidad activa y amigable. Cuenta con más de 50 jugadores diarios, eventos constantes y un mundo diseñado para entrenar, explorar y divertirse.",
+        "title-proyecto2": "Red NexusCraft",
+        "info-proyecto2": "NexusCraft es un servidor de supervivencia de Minecraft enfocado en la comunidad, economía y construcción. Tiene más de 100 jugadores activos cada día.",
+        "title-proyecto3": "Red FrogCraft",
+        "info-proyecto3": "FrogCraft es un servidor de supervivencia de Minecraft centrado en la jugabilidad clásica, la comunidad y el progreso a tu propio ritmo. Con un promedio de 50 jugadores activos, ofrece un entorno estable y amigable lleno de oportunidades para construir, explorar y disfrutar la supervivencia como debe ser."
     },
 
     "contacto": {
         "title": "Contacto",
-        "text": "Completa el siguiente formulario y me pondré en contacto contigo lo antes posible.",
+        "text": "Rellena el siguiente formulario y te responderé lo antes posible.",
         "btn-enviar": "Enviar"
     }
 }
