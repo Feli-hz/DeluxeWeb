@@ -1,0 +1,39 @@
+{
+    "menu": {
+        "item2": "About Me",
+        "item3": "Skills",
+        "item4": "Projects",
+        "item5": "Contact"
+    },
+
+    "home": {
+        "home_text-1": "Hi! I'm",
+        "home_text-3": "Frontend Web Developer",
+        "contact_button": "Contact"
+    },
+
+    "sobre-mi": {
+        "title": "About Me",
+        "texto_sobreMi": "Developer focused on Frontend Web Development. As someone who loves intuitive and aesthetically pleasing designs, I aim to create projects that provide the best user experience."
+    },
+
+    "habilidades": {
+        "title": "Skills"
+    },
+
+    "proyectos": {
+        "title": "Projects",
+        "title-proyecto1": "AtlanticMC Network",
+        "info-proyecto1": "AtlanticMC is a Pixelmon Minecraft server with an active and friendly community. It features over 50 daily players, constant events, and a world designed for training, exploring, and having fun.",
+        "title-proyecto2": "NexusCraft Network",
+        "info-proyecto2": "NexusCraft is a Minecraft survival server focused on community, economy, and building. It has over 100 active players every day.",
+        "title-proyecto3": "FrogCraft Network",
+        "info-proyecto3": "FrogCraft is a Minecraft survival server focused on classic gameplay, community, and progressing at your own pace. With an average of 50 active players, it offers a stable, friendly environment full of opportunities to build, explore, and enjoy survival the way it’s meant to be."
+    },
+
+    "contacto": {
+        "title": "Contact",
+        "text": "Fill out the form below and I’ll get back to you as soon as possible.",
+        "btn-enviar": "Send"
+    }
+}

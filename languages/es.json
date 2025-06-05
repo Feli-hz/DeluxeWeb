@@ -1,0 +1,39 @@
+{
+    "menu": {
+        "item2": "Sobre mí",
+        "item3": "Habilidades",
+        "item4": "Proyectos",
+        "item5": "Contacto"
+    },
+
+    "home": {
+        "home_text-1": "Hola! Soy",
+        "home_text-3": "Desarrolladora web Front",
+        "contact_button": "Contacto"
+    },
+
+    "sobre-mi": {
+        "title": "Sobre mí",
+        "texto_sobreMi": "Programador enfocado al Desarrollo Web Frontend. Como persona amante a los diseños intuitivos y estéticamente agradables busco crear proyectos que brinden la mejor experiencia para el usuario."
+    },
+
+    "habilidades": {
+        "title": "Habilidades"
+    },
+
+    "proyectos": {
+        "title": "Proyectos",
+        "title-proyecto1": "AtlanticMC Network",
+        "info-proyecto1": "AtlanticMC es un servidor de Minecraft Pixelmon con una comunidad activa y amigable. Cuenta con más de 50 jugadores conectados a diario, eventos constantes, y un mundo pensado para entrenar, explorar y divertirse.",
+        "title-proyecto2": "NexusCraft Network",
+        "info-proyecto2": "NexusCraft es un servidor de Minecraft survival con foco en la comunidad, la economía y la construcción. Con más de 100 jugadores activos todos los días.",
+        "title-proyecto3": "FrogCraft Network",
+        "info-proyecto3": "FrogCraft es un servidor survival de Minecraft enfocado en la jugabilidad clásica, la comunidad y el progreso a tu ritmo. Con un promedio de 50 jugadores activos, ofrece un entorno estable, amigable y lleno de oportunidades para construir, explorar y disfrutar del survival como debe ser."
+    },
+
+    "contacto": {
+        "title": "Contacto",
+        "text": "Completa el siguiente formulario y me pondré en contacto contigo lo antes posible.",
+        "btn-enviar": "Enviar"
+    }
+}
